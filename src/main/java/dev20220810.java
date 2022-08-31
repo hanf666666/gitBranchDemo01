@@ -6,6 +6,6 @@
  */
 public class dev20220810 {
     public static void main(String[] args) {
-        System.out.println("dev20220810");
+        System.out.println("dev20220810 dev20220810");
     }
 }
